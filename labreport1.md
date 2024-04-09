@@ -7,9 +7,11 @@ For the command `cd`:
 
 2. Using the command with a path to a *directory* as an argument:
 
+     ![Image](cd2.png)
 
 3. Using the command with a path to a *file* as an argument:
 
+     ![Image](cd3.png)
 
 
 For the command `ls`:
