@@ -30,13 +30,16 @@ For the command `ls`:
 
 For the command `cat`: 
 1. Using the command with *no* arguments:
- 
+
+     ![Image](cat1.png)
 
 2. Using the command with a path to a *directory* as an argument:
 
+     ![Image](cat2.png)
 
 3. Using the command with a path to a *file* as an argument:
 
+     ![Image](cat3.png)
 
 
 
