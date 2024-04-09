@@ -1,4 +1,4 @@
-![image](https://github.com/annavanderbilt/cse15l-lab-reports/assets/147003980/2bdd07c9-e70f-4c42-a3a8-c8e4cc70af91)# Lab Report 1
+# Lab Report 1
 
 For the command `cd`: 
 1. Using the command with *no* arguments:
