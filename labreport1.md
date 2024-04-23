@@ -59,7 +59,7 @@
 
      Absolute path before running the command: `/c/Users/annal/lecture1/messages`
 
-     Running `cat` with no arguments does nothing; the system waits for an argument to be inputted or for the user to end the command. This is not an error (it just doesn't do anything). However, inputting text after running cat without an argument returns the same text:
+     Running `cat` with no arguments does nothing; the system waits for an argument to be inputted or for the user to end the command. This is not an error (it just doesn't do anything). However, inputting text after running `cat` without an argument returns the same text:
 
      ![Image](cat4.png)
 
