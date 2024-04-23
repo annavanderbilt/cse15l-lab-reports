@@ -24,4 +24,20 @@ Using `add-message`:
 
 ## Part 2 
 
+1. Running `ls` with the absolute path to my private key:
 
+   ![Image](part2_1.png)
+
+2. Running `ls` with the absolute path to my private key from the `ieng6` machine:
+
+   ![Image](part2_2.png)
+
+3. Logging into my `ieng6` account without being asked for my password:
+
+   ![Image](part2_3.png)
+
+
+## Part 3 
+
+Basically everything I've learned in the past few weeks in CSE 15L has been something I didn't know before, but a couple things that stood out is how to create a local server and how to join a remote server. I had no idea that there were remote UCSD servers that anyone could log into so easily, and I think it's very cool that we can use just a few simple commands (`ssh`, `scp`, etc.) to copy our own local files to a remote server on an `ieng6` machine. 
+   
