@@ -59,9 +59,13 @@
 
      Absolute path before running the command: `/c/Users/annal/lecture1/messages`
 
-     Running `cat` with no arguments does nothing; the system waits for an argument to be inputted or for the user to end the command. This is not an error (it just doesn't do anything). 
+     Running `cat` with no arguments does nothing; the system waits for an argument to be inputted or for the user to end the command. This is not an error (it just doesn't do anything). However, inputting text after running cat without an argument returns the same text:
 
-2. Using the command with a path to a *directory* as an argument:
+     ![Image](cat4.png)
+
+     As displayed above, when I input "hello" it returns "hello," and when I input "hi" it returns "hi."
+
+3. Using the command with a path to a *directory* as an argument:
 
      ![Image](cat2.png)
 
@@ -69,7 +73,7 @@
 
      Running `cat lecture1/messages` returns the message above. `cat` is used to print the contents of one or more files as indicated by the given paths, but since there are no files indicated (only a directory) `cat` essentially does nothing (this is not an error, it just tells the user that it is a being called on a directory). 
 
-3. Using the command with a path to a *file* as an argument:
+4. Using the command with a path to a *file* as an argument:
 
      ![Image](cat3.png)
 
