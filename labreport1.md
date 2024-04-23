@@ -24,7 +24,7 @@
 
      Absolute path before running the command: `/c/Users/annal/lecture1/messages`
 
-     Running `cd` with the file en-us.txt as a path gives an error. This is because `cd` changes the current working directory to the given path, but a file is not a directory, so it doesn't work.
+     Running `cd` with the file `en-us.txt` as a path gives an error. This is because `cd` changes the current working directory to the given path, but a file is not a directory, so it doesn't work.
 
 ## For the command `ls`:
 1. Using the command with *no* arguments:
