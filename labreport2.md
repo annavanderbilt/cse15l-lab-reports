@@ -28,7 +28,7 @@ Using `add-message`:
 
    ![Image](part2_1.png)
 
-2. Running `ls` with the absolute path to my private key from the `ieng6` machine:
+2. Running `ls` with the absolute path to my public key from the `ieng6` machine:
 
    ![Image](part2_2.png)
 
