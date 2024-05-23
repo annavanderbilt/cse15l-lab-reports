@@ -4,7 +4,7 @@
 
 Logging into ieng6:
 
-     ![Image](stepasdf.png)
+     ![Image](step4.png)
 
 Keys pressed/commands run: `ssh avanderbilt@ieng6.ucsd.edu`
 
@@ -14,7 +14,7 @@ I used `ssh` to log into the remote `ieng6` server.
 
 Cloning the repository fork:
 
-     ![Image](stepasdf.png)
+     ![Image](step5.png)
 
 Keys pressed/commands run: `git clone https://github.com/annavanderbilt/lab7.git`
 
@@ -24,7 +24,7 @@ I used the `git clone` command to clone the lab 7 forked repository onto the rem
 
 Running the tests:
 
-     ![Image](stepasdf.png)
+     ![Image](step6.png)
 
 Keys pressed/commands run: `cd lab7`, used CTRL+C CTRL+V for `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExampleTests`
 
