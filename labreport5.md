@@ -15,3 +15,6 @@ labreport5/
 
 This is `LabReport5.java`, `test.sh`, and `text.txt` (before the errors are fixed):
 
+![Image](lab5_1.png)
+
+![Image](lab5_2.png)                   ![Image](lab5_3.png)
