@@ -36,3 +36,5 @@ Here is the Piazza Debugging Scenario:
 
 **Student Response**: Thank you so much! I fixed this and this error is no longer showing up. Unfortunately, it seems like there is still something wrong with my code. The file seems to be reading properly, but it is printing out the wrong numbers (for the numbers `1, 2, 3, 4, 5`, the factorial output should be `1, 2, 6, 24, 120`). I'm not sure what's wrong with it, could you help me? Here is my code again and the output:
 
+![Image](lab5error3.png)
+
